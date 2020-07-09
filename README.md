@@ -1,8 +1,8 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# Moringa Project
+#### A simple static webpage, 09.07.2020
+#### By **Pretorious, Rebecca**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+A webpage used to do my class practice.  
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
