@@ -1,12 +1,23 @@
+a href="https://coveralls.io/github/nestjs/nest?branch=master"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#5" alt="Coverage" /></a>
+
 # PORTFOLIO
-#### This is website of my portfolio, 10.07.2020
+#### This is website of Pretorious Portfolio, 10.07.2020
 #### By **Pretorious Ndung'u**
 ## Description
-My portfolio is a static website that gives a summary of my education, working experiences, my work, hobies and way to contact me.
-## Setup/Installation Requirements
-* run the following command in your terminal
-```git clone https://github.com/n-pretorious/week-one-prep-ip.git```
+Portfolio is a static website that gives a (Résumé) summary of Pretorious Ndung'u. The details entail education, working experiences, work, hobies and contact with referee's details to confirm the details.
+
+## Cloning
+```bash
+$ git clone https://github.com/n-pretorious/week-one-prep-ip.git
+```
 ## Technologies Used
--html and css
+* html and css
+
+## Live Link
+https://n-pretorious.github.io/week-one-prep-ip/
+
 ## Support and contact details
 Email: pretoriousndungu@gmail.com
+
+### License
+Copyright 2020 **Pretorious Ndung'u**
